@@ -14,7 +14,7 @@ const Genre = mongoose.model('Genre', genreSchema);
 async function validateGenre(genre) {
     try {
         const schema = Joi.object({
-            name: Joi.string().min(3).max(20).required()
+            name: Joi.string().min(3).max(50).required()
         });
         return await schema.validateAsync(genre);
     }

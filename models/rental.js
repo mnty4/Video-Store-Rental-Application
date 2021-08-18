@@ -8,7 +8,7 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
             name: {
                 type: String,
                 required: true,
-                minlength: 5,
+                minlength: 3,
                 maxlength: 50
             },
             isGold: {
@@ -28,7 +28,7 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
         type: new mongoose.Schema({
             title: {
                 type: String,
-                minlength: 5,
+                minlength: 3,
                 maxlength: 255,
                 required: true,
                 trim: true

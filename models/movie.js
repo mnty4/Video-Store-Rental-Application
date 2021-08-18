@@ -5,7 +5,7 @@ const { genreSchema } = require('./genre');
 const Movie = mongoose.model('Movie', new mongoose.Schema({
     title: {
         type: String,
-        minlength: 5,
+        minlength: 3,
         maxlength: 255,
         required: true,
         trim: true
@@ -31,10 +31,10 @@ const Movie = mongoose.model('Movie', new mongoose.Schema({
 async function validateMovie(movie) {
     try {
         const schema = Joi.object({
-            title: Joi.string().min(5).max(50).required(),
+            title: Joi.string().min(3).max(255).required(),
             genreId: Joi.objectId().required(),
-            numberInStock: Joi.number().min(0),
-            dailyRentalRate: Joi.number().min(0)
+            numberInStock: Joi.number().min(0).max(255),
+            dailyRentalRate: Joi.number().min(0).max(255)
         })
     
         return await schema.validateAsync(movie);

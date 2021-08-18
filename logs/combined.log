@@ -1,0 +1,363 @@
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"level":"error","message":"hehexd hehexd","stack":"Error: hehexd\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\routes\\genres.js:12:11\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\tut\\node_modules\\raw-body\\index.js:273:7)"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"this is an error","level":"error"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"this is an error","level":"error"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:19:03"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:19:03"}
+{"message":"listening at port: 3000...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:19:35"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:19:35"}
+{"message":"listening at port: 3000...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:20:28"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:20:28"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:21:00"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:26:21"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:26:51"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:30:36"}
+{"message":"connected to mongoDB...","level":"\u001b[32minfo\u001b[39m","timestamp":"2021-08-14 17:43:19"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"level":"error","message":"genres are weird lol genres are weird lol","stack":"Error: genres are weird lol\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\genres.js:12:11\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:273:7)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"level":"error","message":"genres are weird lol genres are weird lol","stack":"Error: genres are weird lol\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\genres.js:12:11\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:273:7)"}
+{"message":"this is an error","level":"error"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: ducks and bills and bob\nError: ducks and bills and bob\n    at Object.<anonymous> (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js:13:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: ducks and bills and bob\n    at Object.<anonymous> (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js:13:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Sat Aug 14 2021 18:49:47 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":25056,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":74194944,"heapTotal":55545856,"heapUsed":36658808,"external":21118009,"arrayBuffers":19519695}},"os":{"loadavg":[0,0,0],"uptime":104645},"trace":[{"column":7,"file":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js","function":null,"line":13,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 18:50:11 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":3716,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":74166272,"heapTotal":56070144,"heapUsed":36012048,"external":21059621,"arrayBuffers":19442024}},"os":{"loadavg":[0,0,0],"uptime":104670},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:48:46 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":23712,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":74932224,"heapTotal":56070144,"heapUsed":36671736,"external":21120383,"arrayBuffers":19502786}},"os":{"loadavg":[0,0,0],"uptime":108184},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:50:02 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":11664,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75104256,"heapTotal":55808000,"heapUsed":37104600,"external":21165273,"arrayBuffers":19547676}},"os":{"loadavg":[0,0,0],"uptime":108260},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:50:50 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":22996,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75243520,"heapTotal":55808000,"heapUsed":37232544,"external":21174252,"arrayBuffers":19556655}},"os":{"loadavg":[0,0,0],"uptime":108308},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:51:07 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":17352,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75239424,"heapTotal":55808000,"heapUsed":37144360,"external":21135918,"arrayBuffers":19518321}},"os":{"loadavg":[0,0,0],"uptime":108325},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:51:26 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":24784,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":74895360,"heapTotal":56070144,"heapUsed":36883704,"external":21137292,"arrayBuffers":19519695}},"os":{"loadavg":[0,0,0],"uptime":108345},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:51:39 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":1824,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75997184,"heapTotal":55808000,"heapUsed":37700224,"external":21135527,"arrayBuffers":19517930}},"os":{"loadavg":[0,0,0],"uptime":108358},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:55:20 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":14604,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":76173312,"heapTotal":56070144,"heapUsed":37666040,"external":21166308,"arrayBuffers":19548711}},"os":{"loadavg":[0,0,0],"uptime":108578},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 19:55:36 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":22132,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75939840,"heapTotal":56070144,"heapUsed":37587184,"external":21167516,"arrayBuffers":19549919}},"os":{"loadavg":[0,0,0],"uptime":108595},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 20:02:28 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":21764,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":74797056,"heapTotal":56070144,"heapUsed":36568656,"external":21089624,"arrayBuffers":19472027}},"os":{"loadavg":[0,0,0],"uptime":109006},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"error":"evil i am evil >:)","level":"error","message":"unhandledRejection: evil i am evil >:)\n  No stack trace","exception":true,"date":"Sat Aug 14 2021 21:21:55 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":9628,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":75931648,"heapTotal":55808000,"heapUsed":37673984,"external":21166308,"arrayBuffers":19548711}},"os":{"loadavg":[0,0,0],"uptime":113774},"trace":[]}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"level":"error","message":"genres are weird lol genres are weird lol","stack":"Error: genres are weird lol\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\genres.js:12:11\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\raw-body\\index.js:273:7)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled1","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled1","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled1","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled1","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled1","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":false,"level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":false,"level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":false,"level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"morgan enabled","level":"info"}
+{"message":false,"level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongoDB...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"listening at port: 3000...","level":"info","service":"user-service"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info","service":"user-service"}
+{"message":"listening at port: 3000...","level":"info","service":"user-service"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info","service":"user-service"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\mongoose\\lib\\query.js:4592:15)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}

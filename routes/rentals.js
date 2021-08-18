@@ -2,6 +2,7 @@ const { Rental, validate } = require('../models/rental');
 const { Movie } = require('../models/movie');
 const { Genre } = require('../models/genre');
 const { Customer } = require('../models/customer');
+const auth = require('../middleware/auth');
 
 const mongoose = require('mongoose');
 const Fawn = require('fawn');
@@ -10,7 +11,7 @@ const router = express.Router();
 
 Fawn.init(mongoose);
 
-router.get('/', async(req, res) => {
+router.get('/', auth, async(req, res) => {
     const rentals = await Rental.find().sort('-dateOut');
     res.send(rentals);
 });
