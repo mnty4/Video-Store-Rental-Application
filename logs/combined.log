@@ -1957,3 +1957,302 @@
 {"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
 {"message":"listening at port: 3000...","level":"info"}
 {"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Rental.lookup is not a function Rental.lookup is not a function","stack":"TypeError: Rental.lookup is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:20:33\n    at newFn (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\middleware\\validate.js:5:9\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"level":"error","message":"rental.return is not a function rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:29:5"}
+{"level":"error","message":"rental.return is not a function rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:29:5"}
+{"level":"error","message":"rental.return is not a function rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:29:5"}
+{"level":"error","message":"rental.return is not a function rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:29:5"}
+{"level":"error","message":"rental.return is not a function rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\routes\\returns.js:29:5"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: logger is not defined\nReferenceError: logger is not defined\n    at module.exports (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\startup\\routes.js:16:9)\n    at Object.<anonymous> (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js:8:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"ReferenceError: logger is not defined\n    at module.exports (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\startup\\routes.js:16:9)\n    at Object.<anonymous> (C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js:8:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Aug 19 2021 17:07:59 GMT+1000 (Australian Eastern Standard Time)","process":{"pid":15368,"uid":null,"gid":null,"cwd":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.17.3","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js"],"memoryUsage":{"rss":76845056,"heapTotal":57032704,"heapUsed":27368456,"external":19894160,"arrayBuffers":18295846}},"os":{"loadavg":[0,0,0],"uptime":530538},"trace":[{"column":9,"file":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\startup\\routes.js","function":"module.exports","line":16,"method":"exports","native":false},{"column":28,"file":"C:\\Users\\User\\Documents\\my-stuff\\git-repos\\MEANY\\vidley_project\\vidly\\index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info"}
+{"message":"connected to mongodb://localhost/vidley_tests...","level":"info"}
+{"message":"listening at port: 3000...","level":"info","service":"user-service"}
+{"message":"connected to mongodb://localhost/vidly...","level":"info","service":"user-service"}
+{"message":"listening at port 3000...","level":"info","service":"user-service"}
+{"message":"connected to mongodb://localhost/vidly...","level":"info","service":"user-service"}

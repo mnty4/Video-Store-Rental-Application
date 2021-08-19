@@ -7,8 +7,6 @@ const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
 
-
-
 router.get('/', async (req, res) => {
     const genres = await Genre.find().sort({ name: 1 });
     res.send(genres);
@@ -43,7 +41,5 @@ router.delete('/:id', [validateObjectId, auth, admin], async (req, res) => {
 
     res.send(genre);
 });
-
-
 
 module.exports = router;

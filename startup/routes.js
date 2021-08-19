@@ -8,8 +8,14 @@ const users = require('../routes/users');
 const auth = require('../routes/auth');
 const returns = require('../routes/returns');
 const error = require('../middleware/error');
+const morgan = require('morgan');
+const logger = require('../logger');
 
 module.exports = function(app) {
+    if(process.env.NODE_ENV === 'development') {
+        app.use(morgan('tiny'));
+        logger.debug('morgan enabled');
+    }
     app.use(express.json());
     app.use('/api/genres', genres);
     app.use('/api/customers', customers);

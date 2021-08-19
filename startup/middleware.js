@@ -13,6 +13,5 @@ module.exports = function(app) {
         app.use(morgan('tiny'));
         logger.debug('morgan enabled');
     }
-    //logger.info(app.get('NODE_ENV') == process.env.NODE_ENV);
 }
 

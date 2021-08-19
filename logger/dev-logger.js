@@ -1,5 +1,5 @@
 const { format, createLogger, transports } = require('winston');
-const { timestamp, combine, printf, json, splat } = format;
+const { timestamp, combine, printf, json, splat, colorize } = format;
 const path = require('path');
 
 function buildDevLogger() {
@@ -11,9 +11,9 @@ function buildDevLogger() {
         transports: [
             new transports.Console({
                 format: combine(
-                    format.colorize(),
+                    colorize(),
                     timestamp({ format: 'YYYY-MM-DD HH:mm:ss'}),
-                    format.errors({ stack: true }),
+                    errors({ stack: true }),
                     logFormat),
                 level: 'info',
                 handleExceptions: true,
