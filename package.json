@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "set NODE_ENV=development&&set vidly_jwtPrivateKey=secret123&&nodemon index.js",
     "start": "node index.js",
-    "test": "jest --watchAll --detectOpenHandles --coverage"
+    "test": "jest --watchAll --detectOpenHandles --verbose"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,7 @@
     "joi-password-complexity": "^5.1.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "mongoose": "^5.13.5",
     "morgan": "^1.10.0",
     "winston": "^3.3.3",

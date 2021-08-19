@@ -17,7 +17,6 @@ router.get('/', auth, async(req, res) => {
 });
 
 router.post('/', async(req, res) => {
-    // if an error object is returned it will have the property details
     const { error } = await validate(req.body);
     if(error) return res.status(400).send(error.message);
 

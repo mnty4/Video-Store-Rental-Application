@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const Joi = require('joi');
+const validateAsyncWrapper = require('../middleware/validateAsyncWrapper');
 
 const genreSchema = new mongoose.Schema({
     name: { 
@@ -30,5 +31,10 @@ async function validateGenre(genre) {
 }
 
 exports.Genre = Genre;
-exports.validate = validateGenre;
 exports.genreSchema = genreSchema;
+exports.validateGenre = validateAsyncWrapper(async (req) => {
+    const schema = Joi.object({
+        name: Joi.string().min(3).max(50).required()
+    });
+    await schema.validateAsync(req.body);
+});
