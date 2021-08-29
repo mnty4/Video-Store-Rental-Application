@@ -105,6 +105,15 @@ describe('/apireturns', () => {
         const rentalInDb = await Rental.findById(rental._id);
         expect(rentalInDb.rentalFee).toBe(14);
     });
+    it('should set the rental date to 1 day if it is returned in less than 1 day', async() => {
+        rental.dateOut = moment().toDate();
+        await rental.save();
+
+        const res = await exec();
+
+        const rentalInDb = await Rental.findById(rental._id);
+        expect(rentalInDb.rentalFee).toBe(2);
+    });
     it('should increase the movie stock', async () => {
         const res = await exec();
 

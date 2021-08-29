@@ -1,5 +1,5 @@
 const { format, createLogger, transports } = require('winston');
-const { timestamp, combine, printf, json, splat, colorize } = format;
+const { timestamp, combine, printf, json, splat, colorize, errors } = format;
 const path = require('path');
 
 function buildDevLogger() {
